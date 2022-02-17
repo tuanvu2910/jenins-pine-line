@@ -1,0 +1,20 @@
+{
+  "name": "jenins-pine-line",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuanvu2910/jenins-pine-line.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuanvu2910/jenins-pine-line/issues"
+  },
+  "homepage": "https://github.com/tuanvu2910/jenins-pine-line#readme"
+}
